@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Arjun%20Wandhekar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Arjun%20Wandhekar&fontAlign=50&fontAlignY=40&fontSize=55&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20React&descAlignY=62"/>
 </p>
 
 # 👋 Hi, I'm Arjun Wandhekar
@@ -31,6 +31,16 @@
 📫 **Email:** wandhekararjun22@gmail.com
 
 ---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjunw2003&theme=tokyonight"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 # 🌐 Connect With Me
 
@@ -99,8 +109,6 @@ Git • GitHub • Maven • Postman • Tomcat • VS Code • Eclipse • Inte
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunw2003&theme=tokyonight"/>
 
 </p>
-
-
 
 ---
 
