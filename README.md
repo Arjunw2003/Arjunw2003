@@ -42,7 +42,7 @@
 
 📊 Power BI Dashboard Developer
 
-🚀 Interested in Software Development & Cloud Technologies
+🚀 Interested in Software Development, Java Developer & Cloud Technologies
 
 📫 **Email:** wandhekararjun22@gmail.com
 
